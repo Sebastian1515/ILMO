@@ -80,6 +80,16 @@ $lang = array_merge($lang, array(
 'WEDNESDAY' => 'Wednesday',
 'THURSDAY' => 'Thursday',
 'FRIDAY' => 'Friday',
+'SATURDAY' => 'Saturday',
+'SUNDAY' => 'Sunday',
+
+'MONDAY_SHORT' => 'Mon',
+'TUESDAY_SHORT' => 'Tue',
+'WEDNESDAY_SHORT' => 'Wed',
+'THURSDAY_SHORT' => 'Thu',
+'FRIDAY_SHORT' => 'Fri',
+'SATURDAY_SHORT' => 'Sat',
+'SUNDAY_SHORT' => 'Sun',
 
 'USER_ID' => 'User-ID',
 'LOAN_ID' => 'Loan-ID',
